@@ -1,2 +1,2 @@
 # Harun-Badur-Harun-Badur.github.io
-Kişisel portfolyo sitem
+Harun Badur Kişisel Portfolyo Sitesi
